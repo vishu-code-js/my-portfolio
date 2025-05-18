@@ -1,4 +1,4 @@
 ## My Portfolio
 
 
-## Just testing my github account by doing first commit from my laptop
+## Just testing my github account by doing first commit from my MacBook
